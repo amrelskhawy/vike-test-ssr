@@ -2,6 +2,8 @@ import './code.css'
 
 export { Page }
 
+export const title = "About - Ezone Shop"
+
 function Page() {
   return (
     <>

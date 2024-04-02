@@ -2,6 +2,8 @@ export { Page }
 
 import { Counter } from './Counter'
 
+export const title = "Ezone Shop"
+
 function Page() {
   return (
     <>
